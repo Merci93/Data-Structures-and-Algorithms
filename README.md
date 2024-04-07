@@ -14,3 +14,7 @@ The repository contains scripts for the following:
 3. Given an array, write a function to find all pairs of integers whose sum equals to a given number. The pairs have to be distinct.
 4. Write a function that finds a number in an array, and returns the index. If the number does not exist, return False.
 5. Write a function that returns the maximum product of two integers in an array, given that all elements are positive.
+6. Write a function called middle that takes a list and returns a new list that contains all but the first and last elements.
+7. Given 2D list calculate the sum of diagonal elements.
+8. Given a list, write a function to get first, second best scores from the list. List may contain duplicates.
+9. Write a function to remove the duplicate numbers on given integer array/list.
